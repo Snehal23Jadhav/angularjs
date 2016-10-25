@@ -1,0 +1,11 @@
+com\project\spring\controller\HelloWorldRestController.class
+com\project\spring\service\UserServiceImpl.class
+com\project\spring\service\UserService.class
+com\project\spring\security\SecurityConfiguration.class
+com\project\spring\security\SecurityWebApplicationInitializer.class
+com\project\spring\configuration\HelloWorldInitializer.class
+com\project\spring\configuration\HelloWorldConfiguration.class
+com\project\spring\security\CustomBasicAuthenticationEntryPoint.class
+com\project\spring\model\User.class
+com\project\spring\controller\IndexController.class
+com\project\spring\configuration\CORSFilter.class
